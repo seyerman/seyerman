@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=seyerman&show_icons=true" alt="seyerman" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyerman&layout=compact&hide=html" alt="seyerman" />
