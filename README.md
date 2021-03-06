@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/seyerman)
+![Profile views](https://gpvc.arturio.dev/seyerman)\
 ![Quote](https://github-readme-quotes.herokuapp.com/quote)
 <!--
 **seyerman/seyerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
